@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "./_font.scss";
+
+@layer base {
+  html {
+    font-family: "ubuntu";
+    font-size: 100%;
+  }
+  body {
+    font-size: 0.875rem;
+    @apply text-gray-200;
+    @apply bg-gradient-to-b from-[#2B5048] to-[#347348];
+  }
+  input {
+    min-width: 0;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold mb-4;
+  }
+
+  *:not(a, a *) {
+    @apply cursor-default;
+  }
+
+  h1 {
+    @apply text-5xl font-extrabold;
+  }
+  h2 {
+    @apply text-4xl text-amber-300;
+  }
+  h3 {
+    @apply text-3xl mb-3;
+  }
+  h4 {
+    @apply text-2xl mb-2;
+  }
+  h5 {
+    @apply text-xl mb-2;
+  }
+  h6 {
+    @apply text-lg mb-1;
+  }
+
+  p {
+    @apply max-w-xl text-base font-light mb-3;
+  }
+
+  blockquote {
+    @apply p-4 my-4 bg-gray-50 border-r-4 border-gray-300;
+    p {
+      @apply text-xl italic font-medium leading-relaxed text-gray-900;
+    }
+  }
+
+  ul {
+    @apply list-inside;
+  }
+
+  img {
+    @apply max-w-full h-auto;
+  }
+
+  .container {
+    width: 90% !important;
+  }
+}
