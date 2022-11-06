@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Arash Yeganeh</title>
+  </head>
+  <body class="bg-zinc-700">
+    <div class="container">
+      <div class="py-5 relative">
+        <span class="text-lime-600"> Hi, My name is </span>
+        <h1>Arash Yeganeh</h1>
+        <p class="block max-w-xl">
+          I like to craft solid and scalable frontend products with great user
+          experiences.
+          I like to craft solid and scalable frontend products with great user
+          experiences.
+          I like to craft solid and scalable frontend products with great user
+          experiences.
+        </p>
+      </div>
+
+      <!--
+      <div>
+        <h1>Let's work together.</h1>
+        <p>
+          I'm an <b>independent creative developer</b> from Abergavenny, South
+          Wales.From interaction design to scaleable design systems, single-page
+          apps to something more experimental with WebGL. I help awesome people
+          to build ambitious yet accessible web projects -
+          <b>the wilder, the better</b>.
+        </p>
+      </div>
+      <div>
+        <span class="text-lime-600"> Hi, My name is </span>
+        <h2>About Me</h2>
+        <div class="pl-5">
+          <p>
+            Hello! My name is Brittany and I enjoy creating things that live on
+            the internet. My interest in web development started back in 2012
+            when I decided to try editing custom Tumblr themes — turns out
+            hacking together a custom reblog button taught me a lot about HTML
+            &amp; CSS!
+          </p>
+          <p>
+            Fast-forward to today, and I’ve had the privilege of working at
+            <a
+              href="https://us.mullenlowe.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              >an advertising agency</a
+            >,
+            <a
+              href="https://starry.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              >a start-up</a
+            >,
+            <a
+              href="https://www.apple.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              >a huge corporation</a
+            >, and
+            <a
+              href="https://scout.camd.northeastern.edu/"
+              rel="noopener noreferrer"
+              target="_blank"
+              >a student-led design studio</a
+            >. My main focus these days is building accessible, inclusive
+            products and digital experiences at
+            <a
+              href="https://upstatement.com/"
+              rel="noopener noreferrer"
+              target="_blank"
+              >Upstatement</a
+            >
+            for a variety of clients.
+          </p>
+          <p>
+            I also recently
+            <a
+              href="https://www.newline.co/courses/build-a-spotify-connected-app"
+              rel="noopener noreferrer"
+              target="_blank"
+              >launched a course</a
+            >
+            that covers everything you need to build a web app with the Spotify
+            API using Node &amp; React.
+          </p>
+          <p>Here are a few technologies I’ve been working with recently:</p>
+
+          <ul>
+            <li>Node js</li>
+            <li>Node js</li>
+            <li>Node js</li>
+            <li>Node js</li>
+          </ul>
+        </div>
+      </div>
+      <div>
+        <h1>Where I’ve Worked</h1>
+        <p>
+          I'm an <b>independent creative developer</b> from Abergavenny, South
+          Wales.From interaction design to scaleable design systems, single-page
+          apps to something more experimental with WebGL. I help awesome people
+          to build ambitious yet accessible web projects -
+          <b>the wilder, the better</b>.
+        </p>
+      </div>
+      <div>
+        <span class="text-lime-600"> Hi, My name is </span>
+        <h2>Some Things I’ve Built</h2>
+        <pre>
+          < is entity name for <
+      </pre
+        >
+        <div class="pl-5">
+          <p>
+            I'm an <b>independent creative developer</b> from Abergavenny, South
+            Wales.From interaction design to scaleable design systems,
+            single-page apps to something more experimental with WebGL. I help
+            awesome people to build ambitious yet accessible web projects -
+            <b>the wilder, the better</b>.
+          </p>
+        </div>
+      </div>
+      <div>
+        <span class="text-lime-600"> Hi, My name is </span>
+        <h2>Projects</h2>
+        <div class="pl-5">
+          <p>
+            I'm an <b>independent creative developer</b> from Abergavenny, South
+            Wales.From interaction design to scaleable design systems,
+            single-page apps to something more experimental with WebGL. I help
+            awesome people to build ambitious yet accessible web projects -
+            <b>the wilder, the better</b>.
+          </p>
+        </div>
+      </div>
+      <div>
+        <span class="text-lime-600"> Hi, My name is </span>
+        <h2>Youtube</h2>
+        <div class="pl-5">
+          <p>
+            I'm an <b>independent creative developer</b> from Abergavenny, South
+            Wales.From interaction design to scaleable design systems,
+            single-page apps to something more experimental with WebGL. I help
+            awesome people to build ambitious yet accessible web projects -
+            <b>the wilder, the better</b>.
+          </p>
+        </div>
+      </div>
+        <div class="bg-white rounded shadow-lg mb-10 overflow-hidden">
+        <div class="flex flex-row p-3 bg-blue-100">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            class="h-16 mr-3"
+          >
+            <path
+              d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"
+            />
+          </svg>
+          <div class="text-stone-500">
+            <span class="font-bold">Github</span>
+            <h2 class="m-0 text-slate-900">asdas</h2>
+          </div>
+        </div>
+        <p class="m-0 p-3">
+          I'm an <b>independent creative developer</b> from Abergavenny,
+          South Wales.
+        </p>
+      </div>
+      <div class="bg-white rounded shadow-lg overflow-hidden">
+        <div class="flex flex-row p-3 bg-blue-100">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            class="h-16 mr-3"
+          >
+            <path
+              d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"
+            />
+          </svg>
+          <div class="text-stone-500">
+            <span class="font-bold">Github</span>
+            <h2 class="m-0 text-slate-900">asdas</h2>
+          </div>
+        </div>
+        <p class="m-0 p-3">
+          I'm an <b>independent creative developer</b> from Abergavenny,
+          South Wales.
+        </p>
+      </div>
+      -->
+    </div>
+    <script src="dist/bundle.js"></script>
+  </body>
+</html>
