@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4af4e147.css",
+    "main.js": "/static/js/main.ffc4f68c.js",
+    "static/js/787.6ab50061.chunk.js": "/static/js/787.6ab50061.chunk.js",
+    "static/media/ubuntu_300.ttf": "/static/media/ubuntu_300.8fd2fab86719aa2e0ce6.ttf",
+    "static/media/ubuntu_normal.ttf": "/static/media/ubuntu_normal.b6c577a92a5c238fe749.ttf",
+    "static/media/ubuntu_500.ttf": "/static/media/ubuntu_500.d8e311aee8ed9d8814a5.ttf",
+    "static/media/ubuntu_bold.ttf": "/static/media/ubuntu_bold.feea5b482504762dd9bd.ttf",
+    "static/media/ubuntu_300.woff": "/static/media/ubuntu_300.62c0fe516c6bc62a3aed.woff",
+    "static/media/ubuntu_normal.woff": "/static/media/ubuntu_normal.c59f3152a8e4ee94a064.woff",
+    "static/media/ubuntu_500.woff": "/static/media/ubuntu_500.446e34b7cd4f66c47936.woff",
+    "static/media/ubuntu_bold.woff": "/static/media/ubuntu_bold.23965d0e6a0274539448.woff",
+    "static/media/ubuntu_300.woff2": "/static/media/ubuntu_300.1eccb5dcb5ed79759bdd.woff2",
+    "static/media/ubuntu_normal.woff2": "/static/media/ubuntu_normal.c7b5fd814a668bddb42b.woff2",
+    "static/media/ubuntu_500.woff2": "/static/media/ubuntu_500.f13adc405d01765c9ec2.woff2",
+    "static/media/ubuntu_bold.woff2": "/static/media/ubuntu_bold.7140809a2df7fe1141fe.woff2",
+    "index.html": "/index.html",
+    "main.4af4e147.css.map": "/static/css/main.4af4e147.css.map",
+    "main.ffc4f68c.js.map": "/static/js/main.ffc4f68c.js.map",
+    "787.6ab50061.chunk.js.map": "/static/js/787.6ab50061.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4af4e147.css",
+    "static/js/main.ffc4f68c.js"
+  ]
+}

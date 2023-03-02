@@ -1,0 +1,26 @@
+{
+  "short_name": "Arash Yeganeh",
+  "name": "The personal website of Ar.Yeganeh",
+  "description": "I’m interested in learning and developing systems and trying to be helpful in the technology community.",
+  "icons": [
+    {
+      "src": "/fav/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/fav/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/fav/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#DC3D3D"
+}
