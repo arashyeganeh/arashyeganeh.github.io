@@ -4,7 +4,19 @@
 Full-Stack Web Developer|Network and Systems Engineer
 I’m interested in learning and developing systems and trying to be helpful in the technology community. My activity is in Network and Systems engineering and Full-Stack Web Developer.
 
+## Skill as a Front-end developer
 
+As a Senior Front-End Developer with a deep understanding of JavaScript and expertise in React, I am passionate about building web applications that are not only visually stunning but also highly functional and performant.
+
+* JavaScript ES6+ 
+* TypeScript
+* React.js
+* RESTful APIs
+* Jest
+* Jasmine
+* TailwindCSS
+* Bootstrap
+* SASS
 
 ## Contact Me
 

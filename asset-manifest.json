@@ -1,9 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.6eae0cff.css",
-    "main.js": "/static/js/main.13ca2711.js",
+    "main.css": "/static/css/main.d2fa5e77.css",
+    "main.js": "/static/js/main.c6319b8b.js",
     "static/js/787.6ab50061.chunk.js": "/static/js/787.6ab50061.chunk.js",
+    "static/media/sfpro_bold.ttf": "/static/media/sfpro_bold.70891f17a3ec4eff738d.ttf",
+    "static/media/sfpro_500.ttf": "/static/media/sfpro_500.31f542ea29d61e4d2daf.ttf",
     "static/media/ubuntu_300.ttf": "/static/media/ubuntu_300.8fd2fab86719aa2e0ce6.ttf",
+    "static/media/sfpro_normal.ttf": "/static/media/sfpro_normal.c770cfbdc0229b818265.ttf",
     "static/media/ubuntu_normal.ttf": "/static/media/ubuntu_normal.b6c577a92a5c238fe749.ttf",
     "static/media/ubuntu_500.ttf": "/static/media/ubuntu_500.d8e311aee8ed9d8814a5.ttf",
     "static/media/ubuntu_bold.ttf": "/static/media/ubuntu_bold.feea5b482504762dd9bd.ttf",
@@ -12,16 +15,23 @@
     "static/media/ubuntu_500.woff": "/static/media/ubuntu_500.446e34b7cd4f66c47936.woff",
     "static/media/ubuntu_bold.woff": "/static/media/ubuntu_bold.23965d0e6a0274539448.woff",
     "static/media/ubuntu_300.woff2": "/static/media/ubuntu_300.1eccb5dcb5ed79759bdd.woff2",
+    "static/media/sfpro_500.woff": "/static/media/sfpro_500.61d36531a83f50a96cca.woff",
+    "static/media/sfpro_bold.woff": "/static/media/sfpro_bold.5182a170ff3186708a6f.woff",
     "static/media/ubuntu_normal.woff2": "/static/media/ubuntu_normal.c7b5fd814a668bddb42b.woff2",
     "static/media/ubuntu_500.woff2": "/static/media/ubuntu_500.f13adc405d01765c9ec2.woff2",
+    "static/media/sfpro_normal.woff": "/static/media/sfpro_normal.2a8f723b612ff2786aa3.woff",
     "static/media/ubuntu_bold.woff2": "/static/media/ubuntu_bold.7140809a2df7fe1141fe.woff2",
+    "static/media/sfpro_500.woff2": "/static/media/sfpro_500.91f34536fe9e682ea313.woff2",
+    "static/media/sfpro_bold.woff2": "/static/media/sfpro_bold.3bdf7419b00bc98ee585.woff2",
+    "static/media/sfpro_normal.woff2": "/static/media/sfpro_normal.f2e751755e6d71d2d5ee.woff2",
+    "static/media/bg.jpg": "/static/media/bg.c6a6aaed25ca6505c4fd.jpg",
     "index.html": "/index.html",
-    "main.6eae0cff.css.map": "/static/css/main.6eae0cff.css.map",
-    "main.13ca2711.js.map": "/static/js/main.13ca2711.js.map",
+    "main.d2fa5e77.css.map": "/static/css/main.d2fa5e77.css.map",
+    "main.c6319b8b.js.map": "/static/js/main.c6319b8b.js.map",
     "787.6ab50061.chunk.js.map": "/static/js/787.6ab50061.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6eae0cff.css",
-    "static/js/main.13ca2711.js"
+    "static/css/main.d2fa5e77.css",
+    "static/js/main.c6319b8b.js"
   ]
 }
