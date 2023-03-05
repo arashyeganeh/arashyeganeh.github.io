@@ -1,4 +1,4 @@
-# Arash Yeganeh
+# 👨‍💼 Arash Yeganeh | Freelancer
 
 ‎‍🚀 Hi, my name is `Arash Yeganeh`
 Full-Stack Web Developer|Network and Systems Engineer
@@ -20,7 +20,7 @@ As a Senior Front-End Developer with a deep understanding of JavaScript and expe
 
 ## Contact Me
 
-Thank you for taking the time to explore my website. If you have any questions or would like to discuss potential collaboration opportunities, please do not hesitate to contact me using the form below. As a full-stack web developer and network and system engineer, I have the technical expertise and experience to assist with various projects, from small-scale websites to large enterprise-level systems. You can also find more information about my skills and knowledge on my Linkedin page and GitHub.
+Thank you for taking time to explore my website. If you have any questions or would like to discuss potential collaboration opportunities, please do not hesitate to contact me using the form below. As a full-stack web developer and network and system engineer, I have the technical expertise and experience to assist with various projects, from small-scale websites to large enterprise-level systems. You can also find more information about my skills and knowledge on my Linkedin page and GitHub.
 
 <table>
     <tr>
