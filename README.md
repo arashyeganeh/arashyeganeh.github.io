@@ -18,6 +18,24 @@ As a Senior Front-End Developer with a deep understanding of JavaScript and expe
 * Bootstrap
 * SASS
 
+## Skill as a Back-end developer
+
+As a back-end developer, I possess a broad range of skills in utilizing Nodejs, Expressjs, Nextjs, and MongoDB to develop web applications that can handle large amounts of traffic. My extensive experience includes designing and implementing authentication applications with RESTful APIs, building microservices, and deploying them on Docker.
+
+### Web Application
+
+<p>
+    <img src="https://img.shields.io/badge/-Node.js-639856?logo=node.js&logoColor=white">
+    <img src="https://img.shields.io/badge/-Express.js-00838F?logo=express&logoColor=white">
+    <img src="https://img.shields.io/badge/-Next.js-f98818?logo=next.js&logoColor=white">
+</p>
+
+### DataBase
+
+<p>
+    <img src="https://img.shields.io/badge/-MongoDB-009044?logo=mongodb&logoColor=white">
+</p>
+
 ## Contact Me
 
 Thank you for taking time to explore my website. If you have any questions or would like to discuss potential collaboration opportunities, please do not hesitate to contact me using the form below. As a full-stack web developer and network and system engineer, I have the technical expertise and experience to assist with various projects, from small-scale websites to large enterprise-level systems. You can also find more information about my skills and knowledge on my Linkedin page and GitHub.
