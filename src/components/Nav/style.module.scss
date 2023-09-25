@@ -1,0 +1,12 @@
+.nav {
+  @apply bg-slate-200 text-center space-x-5 border-b border-gray-200;
+  a {
+    @apply inline-block py-2;
+  }
+}
+
+.link {
+  &:hover {
+    @apply text-primary;
+  }
+}

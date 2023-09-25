@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply text-lg leading-8 cursor-default;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-zinc-700;
+  }
+
+  h2 {
+    @apply text-lg lg:text-xl mb-2;
+  }
+
+  p {
+    @apply text-zinc-500 leading-6;
+  }
+
+  a {
+    @apply cursor-pointer text-zinc-500 hover:text-zinc-800 duration-300;
+  }
+}
+
+.shape-line {
+  $Line-Width: 1.5rem;
+
+  position: relative;
+  padding-left: $Line-Width * 1.5;
+  &:before {
+    content: "";
+    display: block;
+    height: 5px;
+    width: $Line-Width;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-radius: 5px;
+    transform: translateY(-50%);
+    @apply bg-primary;
+  }
+}
+
+.section {
+  @apply my-10;
+}
