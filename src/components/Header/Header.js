@@ -2,8 +2,8 @@ import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
 import { fadeIn } from "../../animation/variants";
 import styles from "./style.module.scss";
-import personImg from "../../assets/person/arash-yeganeh.png";
-import headerBg from "../../assets/background/header-bg.png";
+// import personImg from "../../assets/person/arash-yeganeh.png";
+// import headerBg from "../../assets/background/header-bg.png";
 
 const Header = () => {
   return (

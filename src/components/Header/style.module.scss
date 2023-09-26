@@ -3,7 +3,7 @@
 
   h1 {
     @apply font-bold text-3xl lg:text-5xl leading-4 mb-3;
-    @apply leading-7 lg:leading-10 #{!important};
+    @apply leading-7 lg:leading-10;
 
     span {
       @apply text-base font-normal lg:text-3xl;
@@ -16,5 +16,6 @@
 }
 
 .bg {
-  @apply absolute bottom-0 left-0 z-[-1];
+  @apply absolute bottom-0 left-0;
+  z-index: -1;
 }
